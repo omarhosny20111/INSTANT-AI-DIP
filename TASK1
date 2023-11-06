@@ -1,0 +1,2 @@
+Question: How to build an IOS APP using Python?
+Answer: python is not a native IOS development language, we need to use a tool to help us build the APP. KIVY is the tool we need, It's an open source library that allow build cross platform apps using python
